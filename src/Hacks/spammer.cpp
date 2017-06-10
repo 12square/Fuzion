@@ -15,7 +15,6 @@ std::vector<std::string> Settings::Spammer::NormalSpammer::messages = {
 		"It's free as in FREEDOM!",
 		"Tux only let me out so I could play this game, please be nice!",
 		"Tux nutted but you keep sucken",
-		">tfw no vac on Linux"
 };
 int Settings::Spammer::PositionSpammer::team = 1;
 bool Settings::Spammer::PositionSpammer::showName = true;
